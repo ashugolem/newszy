@@ -4,7 +4,7 @@ import { Link, BrowserRouter as Router } from "react-router-dom";
 class Section extends Component {
   render() {
     return (
-      <Router>
+      
         <section className="py-4 py-xl-5">
           <div className="container">
             <div className="bg-primary border rounded border-0 border-primary overflow-hidden">
@@ -63,7 +63,7 @@ class Section extends Component {
             </div>
           </div>
         </section>
-      </Router>
+      
     );
   }
 }

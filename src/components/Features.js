@@ -15,7 +15,7 @@ class Features extends Component {
                   data-aos-delay="950"
                   style={{ minHeight: "300px" }}
                   src="assets/img/illustrations/presentation.svg"
-                  alt=''
+                  alt='S'
                   width="800"
                 />
               </div>

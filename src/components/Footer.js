@@ -1,11 +1,12 @@
 import React, { Component } from "react";
-import { Link, BrowserRouter as Router } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 class Footer extends Component {
-  render() {
+  render(props) {
     return (
-      <Router>
+      
         <footer
+          className={this.props.text}
           data-aos="slide-up"
           data-aos-duration="950"
           style={{ backgroundColor: "var(--bs-indigo)" }}
@@ -105,7 +106,7 @@ class Footer extends Component {
             </div>
           </div>
         </footer>
-      </Router>
+      
     );
   }
 }

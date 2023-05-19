@@ -1,8 +1,16 @@
 import React, { Component } from 'react';
-
+import FeaturesSection from './FeaturesSection';
+import Features from './Features';
+import PricingSection from './PricingSection';
+import Section from './Section';
+import Testimonial from './Testtimonial';
+import FAQ from './FAQ';
+import PlanSuggestion from './PlanSuggestion';
+import Footer from './Footer';
 class Header extends Component {
   render() {
     return (
+      <>
       <header className="pt-5">
         <div className="container pt-4 pt-xl-5">
           <div className="row pt-5">
@@ -22,6 +30,22 @@ class Header extends Component {
           </div>
         </div>
       </header>
+    <FeaturesSection/>
+    <Features/>
+    <Section/>
+    <Testimonial/>
+    <PricingSection/>
+    <FAQ/>
+    <PlanSuggestion/> 
+    <Footer/>  
+      {/* <FeaturesSection/>
+      <Features/>
+      <Section/>
+      <Testimonial/>
+      <PricingSection/>
+      <FAQ/>
+      <PlanSuggestion/> */}
+      </>
     );
   }
 }

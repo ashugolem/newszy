@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+nav{
+  background-color: #24285b!important;
+}
+.rounded{
+  border-radius: 15px!important;
+}
 
 @keyframes App-logo-spin {
   from {
