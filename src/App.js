@@ -15,7 +15,7 @@ export class App extends Component {
       <Router basename='/newszy'>
         <Navbar/>
         <Routes>
-          <Route exact path='/' element={<Header/>}/>
+          <Route exact path='/newszy' element={<Header/>}/>
           <Route exact path='/signup' element={<Signup/>}/>
           <Route exact path='/login' element={<Login/>}/>
           <Route exact path='/headlines' element={<Headlines/>}/>
