@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ashugolem/newszy.git/static/css/main.551ea19e.css",
-    "main.js": "/ashugolem/newszy.git/static/js/main.4586129e.js",
-    "static/js/787.19e8451f.chunk.js": "/ashugolem/newszy.git/static/js/787.19e8451f.chunk.js",
-    "index.html": "/ashugolem/newszy.git/index.html",
-    "main.551ea19e.css.map": "/ashugolem/newszy.git/static/css/main.551ea19e.css.map",
-    "main.4586129e.js.map": "/ashugolem/newszy.git/static/js/main.4586129e.js.map",
-    "787.19e8451f.chunk.js.map": "/ashugolem/newszy.git/static/js/787.19e8451f.chunk.js.map"
+    "main.css": "/newszy.git/static/css/main.551ea19e.css",
+    "main.js": "/newszy.git/static/js/main.edcf294f.js",
+    "static/js/787.19e8451f.chunk.js": "/newszy.git/static/js/787.19e8451f.chunk.js",
+    "index.html": "/newszy.git/index.html",
+    "main.551ea19e.css.map": "/newszy.git/static/css/main.551ea19e.css.map",
+    "main.edcf294f.js.map": "/newszy.git/static/js/main.edcf294f.js.map",
+    "787.19e8451f.chunk.js.map": "/newszy.git/static/js/787.19e8451f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.551ea19e.css",
-    "static/js/main.4586129e.js"
+    "static/js/main.edcf294f.js"
   ]
 }
