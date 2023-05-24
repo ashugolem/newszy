@@ -1,0 +1,35 @@
+[33mcommit d7c8016bfcffe8900c16c3641e8a51f8f6b0d494[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ashugolem <71336173+ashugolem@users.noreply.github.com>
+Date:   Sat May 20 03:58:14 2023 +0530
+
+    Deploying
+
+[33mcommit e3c866e8d0257edfb604f7df884a34cccac8cba5[m
+Author: ashugolem <71336173+ashugolem@users.noreply.github.com>
+Date:   Sat May 20 03:44:26 2023 +0530
+
+    Pushing to web
+
+[33mcommit ae47ad64e00683225a2c677b9c478abd0bbc9079[m
+Author: ashugolem <71336173+ashugolem@users.noreply.github.com>
+Date:   Sat May 20 03:36:46 2023 +0530
+
+    Deploying 1st time
+
+[33mcommit afe566a1e18f9ea1cce45c404efa7f9048bfd1da[m
+Author: ashugolem <71336173+ashugolem@users.noreply.github.com>
+Date:   Thu May 18 19:13:06 2023 +0530
+
+    This is the commit after making the perfectly working landing page
+
+[33mcommit 5135c911797196454867f1180a5a2997da9c0249[m
+Author: ashugolem <71336173+ashugolem@users.noreply.github.com>
+Date:   Thu May 18 15:05:45 2023 +0530
+
+    The landing page till Features has been successfylly made
+
+[33mcommit 846b52783e2f3da495747d7bb219f1cd1bbd43b6[m
+Author: ashugolem <71336173+ashugolem@users.noreply.github.com>
+Date:   Thu May 18 12:55:17 2023 +0530
+
+    Initialize project using Create React App

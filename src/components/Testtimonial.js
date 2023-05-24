@@ -11,7 +11,7 @@ class Testimonial extends Component {
               <h2 className="fw-bold">What people say<br /><span className="underline pb-2">about us</span></h2>
             </div>
           </div>
-          <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 d-sm-flex justify-content-sm-center">
+          <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 d-sm-flex justify-content-sm-center" style={{minWidth: "80vw"}}>
             <TestimonialCard name={'Aman Singhal'} text={'This is the best news app services. I used to read these headlines which makes me stay updated'} city={'Banglore'} />
             <TestimonialCard name={'Anjali Gaikwad'} text={'They have the best tech support ever. They respond very and solve my problem within couple of minutes.'} city={'Chennai'} />
             <TestimonialCard name={'Manshi Singh'} text={'Its filter is very accurate and the news is also very much reliable'} city={'Delhi'} />

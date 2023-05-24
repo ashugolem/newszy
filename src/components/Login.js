@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Footer from './Footer';
 class Login extends React.Component {
   render() {
-    document.title = 'NewsZy - Signup';
+    document.title = 'NewsZy - Login';
     return (
         <>
       <section className="py-4 py-md-5 my-5">
