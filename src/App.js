@@ -12,7 +12,7 @@ export class App extends Component {
   render() {
     return (
       <>
-      <Router>
+      <Router basename='/newszy'>
         <Navbar/>
         <Routes>
           <Route exact path='/' element={<Header/>}/>
