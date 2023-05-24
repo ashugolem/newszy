@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashugolem/newszy.git/static/css/main.551ea19e.css",
+    "main.js": "/ashugolem/newszy.git/static/js/main.217d398d.js",
+    "static/js/787.19e8451f.chunk.js": "/ashugolem/newszy.git/static/js/787.19e8451f.chunk.js",
+    "index.html": "/ashugolem/newszy.git/index.html",
+    "main.551ea19e.css.map": "/ashugolem/newszy.git/static/css/main.551ea19e.css.map",
+    "main.217d398d.js.map": "/ashugolem/newszy.git/static/js/main.217d398d.js.map",
+    "787.19e8451f.chunk.js.map": "/ashugolem/newszy.git/static/js/787.19e8451f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.551ea19e.css",
+    "static/js/main.217d398d.js"
+  ]
+}

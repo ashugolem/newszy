@@ -1,0 +1,16 @@
+.row a {
+  border-radius: 5rem;
+}
+
+.row p {
+  color: var(--bs-gray-500)!important;
+}
+
+.footer-color-white li a {
+  color: var(--bs-gray-500);
+}
+
+.color-white {
+  color: var(--bs-gray-500)!important;
+}
+
